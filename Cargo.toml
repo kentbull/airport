@@ -1,11 +1,10 @@
 [package]
 name = "airport"
-version = "0.1.1"
+version = "0.1.2"
 edition = "2021"
 description = "rustrite airport"
 license = "Apache-2.0"
-
-# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+repository = "https://github.com/kentbull/airport"
 
 [dependencies]
 rand = "0.8.5"
